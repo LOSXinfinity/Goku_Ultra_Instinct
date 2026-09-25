@@ -65,4 +65,4 @@ python -m http.server 8080
 
 ## License
 
-MIT — feel free to fork, modify, and share. Not affiliated with Toei Animation, Shueisha, or Bandai Namco.
+MIT — feel free to fork, modify, and share. Not affiliated with Toei Animation, or Bandai Namco.
